@@ -10,6 +10,7 @@ function Header() {
 
       <nav className="flex gap-6">
         <Link to="/">Home</Link>
+        <Link to="/products">Products</Link>
         <Link to="/about-us">About</Link>
         <Link to="/contact-us">Contact</Link>
       </nav>
